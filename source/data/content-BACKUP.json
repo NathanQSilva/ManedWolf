@@ -2207,21 +2207,168 @@
 	"partners": {
 		"small": [
 			{
-				"img": "assets/img/partners/iuricode.png"
+				"img": "assets/img/samples/partner-carousel-img-01.png"
+			},
+			{
+				"img": "assets/img/samples/partner-carousel-img-02.png"
+			},
+			{
+				"img": "assets/img/samples/partner-carousel-img-03.png"
+			},
+			{
+				"img": "assets/img/samples/partner-carousel-img-01.png"
+			},
+			{
+				"img": "assets/img/samples/partner-carousel-img-02.png"
+			},
+			{
+				"img": "assets/img/samples/partner-carousel-img-03.png"
 			}
 		],
 		"full": [
 			{
-				"title": "Iuricode",
-				"info": "www.iuricode.com",
+				"title": "Honeycomb",
+				"info": "www.honeycombgs.com",
 				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
 				"img": "assets/img/samples/partner-img-01.png",
 				"socials": [
 					{
-						"link": "https://www.linkedin.com/in/iuricode/"
+						"link": "https://www.facebook.com/danfisher.dev/"
 					},
 					{
-						"link": "https://www.instagram.com/iuricode/"
+						"link": "https://twitter.com/danfisher_dev/"
+					}
+				]
+			},
+			{
+				"title": "Origami-San",
+				"info": "www.origami-san.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-02.png",
+				"socials": [
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					},
+					{
+						"link": "https://www.instagram.com/dan.fisher.dev/"
+					}
+				]
+			},
+			{
+				"title": "Furry Burglar",
+				"info": "www.furryburglar.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-03.png",
+				"socials": [
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					},
+					{
+						"link": "https://twitter.com/danfisher_dev/"
+					},
+					{
+						"link": "discordapp.com"
+					}
+				]
+			},
+			{
+				"title": "Veritas7",
+				"info": "www.veritas7esports.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-04.png",
+				"socials": [
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					},
+					{
+						"link": "https://twitter.com/danfisher_dev/"
+					}
+				]
+			},
+			{
+				"title": "Origins Gaming",
+				"info": "www.originsgg.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-05.png",
+				"socials": [
+					{
+						"link": "https://twitter.com/danfisher_dev/"
+					},
+					{
+						"link": "twitch.tv"
+					}
+				]
+			},
+			{
+				"title": "Triaxter",
+				"info": "www.triaxter.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-06.png",
+				"socials": [
+					{
+						"link": "https://www.instagram.com/dan.fisher.dev/"
+					},
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					}
+				]
+			},
+			{
+				"title": "Origami-San",
+				"info": "www.origami-san.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-02.png",
+				"socials": [
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					},
+					{
+						"link": "https://www.instagram.com/dan.fisher.dev/"
+					},
+					{
+						"link": "discordapp.com"
+					}
+				]
+			},
+			{
+				"title": "Honeycomb",
+				"info": "www.honeycombgs.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-01.png",
+				"socials": [
+					{
+						"link": "twitch.tv"
+					},
+					{
+						"link": "https://twitter.com/danfisher_dev/"
+					}
+				]
+			},
+			{
+				"title": "Veritas7",
+				"info": "www.veritas7esports.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-04.png",
+				"socials": [
+					{
+						"link": "https://www.facebook.com/danfisher.dev/"
+					},
+					{
+						"link": "https://twitter.com/danfisher_dev/"
+					}
+				]
+			},
+			{
+				"title": "Origins Gaming",
+				"info": "www.originsgg.com",
+				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+				"img": "assets/img/samples/partner-img-05.png",
+				"socials": [
+					{
+						"link": "https://www.instagram.com/dan.fisher.dev/"
+					},
+					{
+						"link": "twitch.tv"
 					}
 				]
 			}
