@@ -2566,28 +2566,22 @@
 	"footer": {
 		"social": [
 			{
-				"title": "Necrogame",
+				"title": "ManedWolf",
 				"subtitle": "Facebook",
 				"icon": "fab fa-facebook-square",
-				"url": "https://www.facebook.com/danfisher.dev/"
+				"url": "https://www.facebook.com/manedwolf"
 			},
 			{
-				"title": "Necrotwt",
-				"subtitle": "Twitter",
-				"icon": "fab fa-twitter",
-				"url": "https://twitter.com/danfisher_dev"
+				"title": "man3dw0lf",
+				"subtitle": "Instagram",
+				"icon": "fab fa-instagram",
+				"url": "https://www.instagram.com/man3dw0lf/"
 			},
 			{
-				"title": "Necroplays",
-				"subtitle": "Twitch",
-				"icon": "fab fa-twitch",
-				"url": "https://twitch.tv"
-			},
-			{
-				"title": "Necrochat",
+				"title": "ManedWolfs",
 				"subtitle": "Discord",
 				"icon": "fab fa-discord",
-				"url": "https://discordapp.com/"
+				"url": "https://discord.gg/PFuGeNPNM6"
 			}
 		]
 	}
