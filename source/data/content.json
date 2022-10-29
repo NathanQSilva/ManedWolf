@@ -2112,6 +2112,13 @@
 				{
 					"link": "https://www.twitch.tv/nathanqsilva_"
 				}
+			],
+			"career": [
+				{
+					"position": "Coach",
+					"where": "CRUEL eSports",
+					"when": "2019-2020"
+				}
 			]
 		},
 		{
@@ -2121,11 +2128,14 @@
 			"joined": "Set 2022",
 			"country": "Brasil",
 			"state": "SP",
-			"excerpt": "Ooopa meu povo, tudo certo? Eu sou Nathan, organizador da Maned Wolf, mas nem tudo seria possível sem toda a colaboração de todos do time, sinta-se a vontade para me seguir nas redes sociais e puxar um papo também, vai ser um prazer conhecer todos.",
-			"img": "assets/img/staff/foto-nathan-quadros.jpg",
+			"excerpt": "Salve rapaziada, aqui é o Gabriel, mais conhecido como Zan, curto tudo que é tipo de jogos e tenho uma paixão por e-sports, por essa razão estou aqui na Maned e espero um futuro empolgante, caso queiram entrar em contato, é só mandar uma dm em qualquer rede social.",
+			"img": "assets/img/staff/foto-gabriel-zan.jpg",
 			"socials": [
 				{
 					"link": "https://www.instagram.com/gabzan0/"
+				},
+				{
+					"link": "https://www.facebook.com/gabriel.zan0"
 				}
 			]
 		}
