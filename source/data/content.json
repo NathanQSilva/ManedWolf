@@ -2333,7 +2333,7 @@
 		],
 		"items": [
 			{
-				"id": "playhearthstone",
+				"id": "playhearthstone teste",
 				"provider": "twitch",
 				"data-filter": "stream-1",
 				"img": "assets/img/samples/stream-img-01.jpg",
