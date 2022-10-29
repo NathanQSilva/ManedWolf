@@ -2072,138 +2072,6 @@
 			}
 		}
 	},
-	"shop": {
-		"shop-1": [
-			{
-				"title": "Magimons black framed print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-01.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Framed prints"
-				},
-				"price": "$38.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Necromancers ennamel mug",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-02.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Coffee mugs"
-				},
-				"price": "$16.00",
-				"rating": "60%"
-			},
-			{
-				"title": "Necromancers women's t-shirt",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-03.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Clothing"
-				},
-				"price": "$24.99",
-				"rating": "100%"
-			},
-			{
-				"title": "Guardians white frame print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-04.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Framed prints"
-				},
-				"price": "$32.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Magimons black framed print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-01.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Framed prints"
-				},
-				"price": "$38.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Necromancers ennamel mug",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-02.png",
-				"category": {
-					"class": "color-warning",
-					"name": "Coffee mugs"
-				},
-				"price": "$16.00",
-				"rating": "60%"
-			}
-		],
-		"shop-2": [
-			{
-				"title": "Magimons black framed print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-01.png",
-				"category": {
-					"name": "Framed prints"
-				},
-				"price": "$38.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Necromancers ennamel mug",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-02.png",
-				"category": {
-					"name": "Coffee mugs"
-				},
-				"price": "$16.00",
-				"rating": "60%"
-			},
-			{
-				"title": "Necromancers women's t-shirt",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-03.png",
-				"category": {
-					"name": "Clothing"
-				},
-				"price": "$24.99",
-				"rating": "100%"
-			},
-			{
-				"title": "Guardians white frame print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-04.png",
-				"category": {
-					"name": "Framed prints"
-				},
-				"price": "$32.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Magimons black framed print",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-01.png",
-				"category": {
-					"name": "Framed prints"
-				},
-				"price": "$38.00",
-				"rating": "80%"
-			},
-			{
-				"title": "Necromancers ennamel mug",
-				"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore...",
-				"img": "assets/img/samples/product-img-02.png",
-				"category": {
-					"name": "Coffee mugs"
-				},
-				"price": "$16.00",
-				"rating": "60%"
-			}
-		]
-	},
 	"partners": {
 		"small": [
 			{
@@ -2229,222 +2097,31 @@
 	},
 	"staff": [
 		{
-			"title": "Marina Gonzales",
-			"position": "Team Manager",
-			"age": 22,
-			"joined": "Jan 2016",
-			"country": "Costa Rica",
-			"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"title": "Nathan Quadros",
+			"position": "CEO",
+			"age": 23,
+			"joined": "Set 2022",
+			"country": "Brasil",
+			"state": "PR",
+			"excerpt": "Ooopa meu povo, tudo certo? Eu sou Nathan, organizador da Maned Wolf, mas nem tudo seria possível sem toda a colaboração de todos do time, sinta-se a vontade para me seguir nas redes sociais e conhecer um pouco mais de mim, se quiser puxar um papo pode também, vai ser um prazer conhecer todos.",
 			"img": "assets/img/samples/staff-member-img-01.jpg",
 			"socials": [
 				{
-					"link": "https://twitter.com/danfisher_dev/"
+					"link": "https://www.instagram.com/nathan.quadros.5/"
 				},
 				{
-					"link": "twitch.tv"
-				},
-				{
-					"link": "https://www.instagram.com/dan.fisher.dev/"
-				}
-			]
-		},
-		{
-			"title": "Stephen Jackson",
-			"position": "Senior Recruiter",
-			"age": 23,
-			"joined": "Aug 2015",
-			"country": "United States",
-			"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "assets/img/samples/staff-member-img-02.jpg",
-			"socials": [
-				{
-					"link": "https://twitter.com/danfisher_dev/"
-				},
-				{
-					"link": "twitch.tv"
-				}
-			]
-		},
-		{
-			"title": "Jason Griffins",
-			"position": "Media Manager",
-			"age": 24,
-			"joined": "Dec 2017",
-			"country": "Canada",
-			"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "assets/img/samples/staff-member-img-03.jpg",
-			"socials": [
-				{
-					"link": "https://www.facebook.com/danfisher.dev/"
-				},
-				{
-					"link": "https://twitter.com/danfisher_dev/"
-				}
-			]
-		},
-		{
-			"title": "Gina May Stevens",
-			"position": "Public Relations",
-			"age": 20,
-			"joined": "Sep 2016",
-			"country": "United States",
-			"excerpt": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"img": "assets/img/samples/staff-member-img-04.jpg",
-			"socials": [
-				{
-					"link": "https://www.facebook.com/danfisher.dev/"
-				},
-				{
-					"link": "https://twitter.com/danfisher_dev/"
-				},
-				{
-					"link": "discordapp.com"
+					"link": "https://www.twitch.tv/nathanqsilva_"
 				}
 			]
 		}
 	],
-	"streams": {
-		"filter": [
-			{
-				"state": "active",
-				"data-filter": "*",
-				"img": "assets/img/samples/streams-filter-avatar-01.png"
-			},
-			{
-				"data-filter": ".stream-1",
-				"img": "assets/img/samples/streams-filter-avatar-02.png"
-			},
-			{
-				"data-filter": ".stream-2",
-				"img": "assets/img/samples/streams-filter-avatar-03.png"
-			},
-			{
-				"data-filter": ".stream-3",
-				"img": "assets/img/samples/streams-filter-avatar-04.png"
-			},
-			{
-				"data-filter": ".stream-4",
-				"img": "assets/img/samples/streams-filter-avatar-05.png"
-			},
-			{
-				"data-filter": ".stream-5",
-				"img": "assets/img/samples/streams-filter-avatar-06.png"
-			}
-		],
-		"items": [
-			{
-				"id": "playhearthstone teste",
-				"provider": "twitch",
-				"data-filter": "stream-1",
-				"img": "assets/img/samples/stream-img-01.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-01.jpg",
-				"title": "Davikinger plays \"Clash of eternity\"",
-				"date": "August 3rd, 2018",
-				"player": "Davikinger90",
-				"state": "live"
-			},
-			{
-				"id": "weplayesport_ru",
-				"provider": "twitch",
-				"data-filter": "stream-2",
-				"img": "assets/img/samples/stream-img-02.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-02.jpg",
-				"title": "The magimons adventure with G-Huntress",
-				"date": "August 3rd, 2018",
-				"player": "G-Huntress"
-			},
-			{
-				"id": "sc2showtime",
-				"provider": "twitch",
-				"data-filter": "stream-1 stream-3 stream-5",
-				"img": "assets/img/samples/stream-img-03.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-03.jpg",
-				"title": "Super plumber bros speedrun for charity!",
-				"date": "July 27th, 2018",
-				"player": "Julie_Noire"
-			},
-			{
-				"id": "hashinshin",
-				"provider": "twitch",
-				"data-filter": "stream-3 stream-4",
-				"img": "assets/img/samples/stream-img-04.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-04.jpg",
-				"title": "24 hours stream before the goddess of war launch",
-				"date": "July 14th, 2018",
-				"player": "Davikinger90"
-			},
-			{
-				"id": "ratirl",
-				"provider": "twitch",
-				"data-filter": "stream-2 stream-3",
-				"img": "assets/img/samples/stream-img-01.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-01.jpg",
-				"title": "Davikinger plays \"Clash of eternity\"",
-				"date": "August 3rd, 2018",
-				"player": "Davikinger90",
-				"state": "live"
-			},
-			{
-				"id": "dafran",
-				"provider": "twitch",
-				"data-filter": "stream-5 stream-4",
-				"img": "assets/img/samples/stream-img-02.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-02.jpg",
-				"title": "The magimons adventure with G-Huntress",
-				"date": "August 3rd, 2018",
-				"player": "G-Huntress"
-			},
-			{
-				"id": "mcconnellret",
-				"provider": "twitch",
-				"data-filter": "stream-4",
-				"img": "assets/img/samples/stream-img-03.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-03.jpg",
-				"title": "Super plumber bros speedrun for charity!",
-				"date": "July 27th, 2018",
-				"player": "Julie_Noire"
-			},
-			{
-				"id": "dakotaz",
-				"provider": "twitch",
-				"data-filter": "stream-1 stream-5",
-				"img": "assets/img/samples/stream-img-04.jpg",
-				"avatar": "assets/img/samples/streams-archive-avatar-04.jpg",
-				"title": "24 hours stream before the goddess of war launch",
-				"date": "July 14th, 2018",
-				"player": "Davikinger90"
-			}
-		]
-	},
-	"footer": {
-		"social": [
-			{
-				"title": "ManedWolf",
-				"subtitle": "Facebook",
-				"icon": "fab fa-facebook-square",
-				"url": "https://www.facebook.com/manedwolf"
-			},
-			{
-				"title": "man3dw0lf",
-				"subtitle": "Instagram",
-				"icon": "fab fa-instagram",
-				"url": "https://www.instagram.com/man3dw0lf/"
-			},
-			{
-				"title": "ManedWolfs",
-				"subtitle": "Discord",
-				"icon": "fab fa-discord",
-				"url": "https://discord.gg/PFuGeNPNM6"
-			}
-		]
-	},
 	"streamers": [
 		{
 			"title": "pkgomestv",
 			"position": "Streamer",
 			"age": 27,
 			"joined": "Out 2022",
-			"country": "BR",
+			"country": "Brasil",
 			"state": "ES",
 			"excerpt": "Olá! Meu nome é Patrick Gomes, Streamer e amigo da comunidade, sua companhia de todos os dias, noites e madrugadas, venha se divertir com a gente.",
 			"img": "assets/img/samples/staff-member-img-01.jpg",
@@ -2466,5 +2143,27 @@
 				}
 			]
 		}
-	]
+	],
+	"footer": {
+		"social": [
+			{
+				"title": "ManedWolf",
+				"subtitle": "Facebook",
+				"icon": "fab fa-facebook-square",
+				"url": "https://www.facebook.com/manedwolf"
+			},
+			{
+				"title": "man3dw0lf",
+				"subtitle": "Instagram",
+				"icon": "fab fa-instagram",
+				"url": "https://www.instagram.com/man3dw0lf/"
+			},
+			{
+				"title": "ManedWolfs",
+				"subtitle": "Discord",
+				"icon": "fab fa-discord",
+				"url": "https://discord.gg/PFuGeNPNM6"
+			}
+		]
+	}
 }
