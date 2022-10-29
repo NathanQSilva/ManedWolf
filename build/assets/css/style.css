@@ -23368,12 +23368,13 @@ body:not(.cursor-is--active) .widget.slick-slider .slick-dots li {
     font-size: 1.8229166667vh;
   }
 }
-.widget-loop.widget-twitch a, .widget-loop.widget-twitter a, .widget-loop.widget-facebook a {
+.widget-loop.widget-twitch a, .widget-loop.widget-twitter a, .widget-loop.widget-facebook a, .widget-loop.wifget-instagram a {
   color: #fff;
 }
 .widget-loop .widget-twitch__message a,
 .widget-loop .widget-twitter__message a,
-.widget-loop .widget-facebook__message a {
+.widget-loop .widget-facebook__message a,
+.widget-loop .wifget-instagram__message a {
   font-weight: bold;
 }
 .widget-loop.widget-facebook {
@@ -23381,6 +23382,12 @@ body:not(.cursor-is--active) .widget.slick-slider .slick-dots li {
   align-items: center;
   justify-content: center;
   background-color: #224bc0;
+}
+.widget-loop.widget-instagram {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff4966;
 }
 .widget-loop .widget-facebook__icon {
   flex: 0 1 45%;
@@ -23408,6 +23415,34 @@ body:not(.cursor-is--active) .widget.slick-slider .slick-dots li {
   }
 }
 .widget-loop .widget-facebook__label {
+  letter-spacing: -0.03em;
+}
+.widget-loop .widget-instagram__icon {
+  flex: 0 1 45%;
+  padding-right: 28px;
+  font-size: 2.25rem;
+  text-align: right;
+}
+@media (min-width: 992px) {
+  .widget-loop .widget-instagram__icon {
+    padding-right: 3.6458333333vh;
+    font-size: 4.6875vh;
+  }
+}
+.widget-loop .widget-instagram__body {
+  flex: 0 1 55%;
+}
+.widget-loop .widget-instagram__count {
+  margin-bottom: 2px;
+  color: #fff;
+}
+@media (min-width: 992px) {
+  .widget-loop .widget-instagram__count {
+    margin-bottom: 0.2604166667vh;
+    font-size: 4.1666666667vh;
+  }
+}
+.widget-loop .widget-instagram__label {
   letter-spacing: -0.03em;
 }
 .widget-loop.widget-twitter {

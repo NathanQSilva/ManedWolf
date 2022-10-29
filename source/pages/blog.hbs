@@ -3,31 +3,23 @@ layout: horizontal
 ---
 
 <div class="widget-area widger-area--before-loop">
-	{{> _widget-player-carousel }}
+	{{> _widget-posts-carousel }}
 </div>
-<div class="content blog-layout--style-1">
+<div class="content blog-layout--style-4">
 
-	{{#each content.blog.home}}
+	{{#each content.blog.content}}
 	<article class="post has-post-thumbnail {{#ifequal format 'video'}} post--video{{/ifequal}}">
 		<div class="post__thumbnail">
-
-			{{#ifequal format 'default'}}
-			<a href="blog-post.html"><img src="{{img}}" alt=""></a>
-			{{/ifequal}}
-
-			{{#ifequal format 'video'}}
-			<a href="https://www.youtube.com/watch?v&#x3D;XE0fU9PCrWE" class="mp_iframe">
-				<img src="{{img}}" alt="">
-				<div class="post__thumbnail-icon">
-					<span class="lightbox__icon"><!----></span>
-				</div>
-			</a>
-			{{/ifequal}}
-
+			<img src="{{img}}" alt="">
 		</div>
 		<div class="post__body">
 			<div class="post__header">
 				<ul class="post__cats list-unstyled">
+					{{#ifequal format 'video'}}
+					<li class="post__thumbnail-icon">
+						<span class="lightbox__icon"><!----></span>
+					</li>
+					{{/ifequal}}
 					<li class="post__cats-item {{category.class}}">
 						<a href="#">{{category.name}}</a>
 					</li>
@@ -44,6 +36,23 @@ layout: horizontal
 			</div>
 		</div>
 	</article>
+
+	{{#ifequal after 'twitter'}}
+		{{> _widget-twitter }}
+	{{/ifequal}}
+
+	{{#ifequal after 'twitch'}}
+		{{> _widget-twitch }}
+	{{/ifequal}}
+
+	{{#ifequal after 'facebook'}}
+		{{> _widget-facebook }}
+	{{/ifequal}}
+
+	{{#ifequal after 'instagram'}}
+		{{> _widget-instagram }}
+	{{/ifequal}}
+
 	{{/each}}
 
 </div>

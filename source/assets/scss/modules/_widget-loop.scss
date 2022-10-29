@@ -41,7 +41,8 @@
 
 	&.widget-twitch,
 	&.widget-twitter,
-	&.widget-facebook {
+	&.widget-facebook,
+	&.wifget-instagram {
 		a {
 			color: $light;
 		}
@@ -49,7 +50,8 @@
 
 	.widget-twitch,
 	.widget-twitter,
-	.widget-facebook {
+	.widget-facebook,
+	.wifget-instagram {
 		&__message {
 			a {
 				font-weight: $font-weight-bold;
@@ -62,6 +64,13 @@
 		align-items: center;
 		justify-content: center;
 		background-color: #224bc0;
+	}
+
+	&.widget-instagram {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background-color: #ff4966;
 	}
 
 	.widget-facebook {
@@ -95,6 +104,39 @@
 			letter-spacing: -.03em;
 		}
 	}
+
+	.widget-instagram {
+		&__icon {
+			flex: 0 1 45%;
+			padding-right: 28px;
+			font-size: 2.25rem;
+			text-align: right;
+
+			@include media-breakpoint-up(lg) {
+				@include fluid-value(padding-right, 28);
+				@include fluid-value(font-size, 36);
+			}
+		}
+
+		&__body {
+			flex: 0 1 55%;
+		}
+
+		&__count {
+			margin-bottom: 2px;
+			color: $light;
+
+			@include media-breakpoint-up(lg) {
+				@include fluid-value(margin-bottom, 2);
+				@include fluid-value(font-size, 32);
+			}
+		}
+
+		&__label {
+			letter-spacing: -.03em;
+		}
+	}
+
 
 	&.widget-twitter {
 		display: flex;
