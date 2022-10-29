@@ -446,6 +446,7 @@
 	a[href*="whatsapp.com"]::before { content: fa-content($fa-var-whatsapp); }
 	a[href*="xing.com"]::before { content: fa-content($fa-var-xing); }
 	a[href*="youtube.com"]::before { content: fa-content($fa-var-youtube); }
+	a[href*="tiktok.com"]::before { content: fa-content($fa-var-tiktok); }
 }
 
 .post__sharing,
@@ -477,6 +478,7 @@
 	a[href*="weibo.com"] { background-color: $social-weibo; }
 	a[href*="whatsapp.com"] { background-color: $social-whatsapp; }
 	a[href*="xing.com"] { background-color: $social-xing; }
+	a[href*="tiktok.com"] { background-color: $social-tiktok; }
 	a[href*="youtube.com"] { background-color: $social-youtube; }
 }
 
@@ -509,6 +511,7 @@
 	a[href*="whatsapp.com"]::before { color: $social-whatsapp; }
 	a[href*="xing.com"]::before { color: $social-xing; }
 	a[href*="youtube.com"]::before { color: $social-youtube; }
+	a[href*="tiktok.com"]::before { color: $social-tiktok; }
 }
 
 .social-menu.social-menu--header {
@@ -540,4 +543,5 @@
 	a[href*="whatsapp.com"] { border-color: $social-whatsapp; }
 	a[href*="xing.com"] { border-color: $social-xing; }
 	a[href*="youtube.com"] { border-color: $social-youtube; }
+	a[href*="tiktok.com"] { border-color: $social-tiktok; }
 }

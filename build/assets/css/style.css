@@ -15431,6 +15431,10 @@ readers do not read off random characters that represent icons */
   content: "\f431";
 }
 
+.fa-tiktok:before {
+  content: "\e07b";
+}
+
 .fa-zhihu:before {
   content: "\f63f";
 }
@@ -20579,6 +20583,10 @@ body:not(.cursor-is--active) .site-overlay {
 .post__sharing a[href*="youtube.com"]::before {
   content: "\f167";
 }
+.social-menu a[href*="tiktok.com"]::before,
+.post__sharing a[href*="tiktok.com"]::before {
+  content: "\e07b";
+}
 
 .post__sharing a[href*="discordapp.com"],
 .post__sharing a[href*="discord.gg"],
@@ -20684,6 +20692,10 @@ body:not(.cursor-is--active) .site-overlay {
 .social-menu.social-menu--links a[href*="xing.com"] {
   background-color: #006567;
 }
+.post__sharing a[href*="tiktok.com"],
+.social-menu.social-menu--links a[href*="tiktok.com"] {
+  background-color: #80f4eb;
+}
 .post__sharing a[href*="youtube.com"],
 .social-menu.social-menu--links a[href*="youtube.com"] {
   background-color: #ff0000;
@@ -20769,6 +20781,9 @@ body:not(.cursor-is--active) .site-overlay {
 .social-menu.social-menu--mobile-bar a[href*="youtube.com"]::before {
   color: #ff0000;
 }
+.social-menu.social-menu--mobile-bar a[href*="tiktok.com"]::before {
+  color: #80f4eb;
+}
 
 .social-menu.social-menu--header a[href*="discordapp.com"],
 .social-menu.social-menu--header a[href*="discord.gg"] {
@@ -20849,6 +20864,9 @@ body:not(.cursor-is--active) .site-overlay {
 }
 .social-menu.social-menu--header a[href*="youtube.com"] {
   border-color: #ff0000;
+}
+.social-menu.social-menu--header a[href*="tiktok.com"] {
+  border-color: #80f4eb;
 }
 
 .icon-svg {

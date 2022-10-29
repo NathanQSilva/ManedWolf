@@ -2437,5 +2437,34 @@
 				"url": "https://discord.gg/PFuGeNPNM6"
 			}
 		]
-	}
+	},
+	"streamers": [
+		{
+			"title": "pkgomestv",
+			"position": "Streamer",
+			"age": 27,
+			"joined": "Out 2022",
+			"country": "BR",
+			"state": "ES",
+			"excerpt": "Olá! Meu nome é Patrick Gomes, Streamer e amigo da comunidade, sua companhia de todos os dias, noites e madrugadas, venha se divertir com a gente.",
+			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"socials": [
+				{
+					"link": "https://www.instagram.com/pkgomestv/"
+				},
+				{
+					"link": "https://twitch.tv/pkgomestv/"
+				},
+				{
+					"link": "https://tiktok.com/@pkgomestv/"
+				},
+				{
+					"link": "https://twitter.com/pkgomestv"
+				},
+				{
+					"link": "https://youtube.com/channel/UC4CgsK1z-RkmQQBkYlgWqKw"
+				}
+			]
+		}
+	]
 }
