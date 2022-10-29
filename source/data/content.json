@@ -2103,14 +2103,29 @@
 			"joined": "Set 2022",
 			"country": "Brasil",
 			"state": "PR",
-			"excerpt": "Ooopa meu povo, tudo certo? Eu sou Nathan, organizador da Maned Wolf, mas nem tudo seria possível sem toda a colaboração de todos do time, sinta-se a vontade para me seguir nas redes sociais e conhecer um pouco mais de mim, se quiser puxar um papo pode também, vai ser um prazer conhecer todos.",
-			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"excerpt": "Ooopa meu povo, tudo certo? Eu sou Nathan, organizador da Maned Wolf, mas nem tudo seria possível sem toda a colaboração de todos do time, sinta-se a vontade para me seguir nas redes sociais e puxar um papo também, vai ser um prazer conhecer todos.",
+			"img": "assets/img/staff/foto-nathan-quadros.jpg",
 			"socials": [
 				{
 					"link": "https://www.instagram.com/nathan.quadros.5/"
 				},
 				{
 					"link": "https://www.twitch.tv/nathanqsilva_"
+				}
+			]
+		},
+		{
+			"title": "Gabriel Zan",
+			"position": "Publicidade e propaganda",
+			"age": 22,
+			"joined": "Set 2022",
+			"country": "Brasil",
+			"state": "SP",
+			"excerpt": "Ooopa meu povo, tudo certo? Eu sou Nathan, organizador da Maned Wolf, mas nem tudo seria possível sem toda a colaboração de todos do time, sinta-se a vontade para me seguir nas redes sociais e puxar um papo também, vai ser um prazer conhecer todos.",
+			"img": "assets/img/staff/foto-nathan-quadros.jpg",
+			"socials": [
+				{
+					"link": "https://www.instagram.com/gabzan0/"
 				}
 			]
 		}
