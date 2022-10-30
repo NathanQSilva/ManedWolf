@@ -4,8 +4,9 @@
 			{
 				"format": "default",
 				"title": "Streamer pkgomestv agora é o mais novo integrante do time de criadores de conteúdo.",
+				"link": "https://www.instagram.com/p/CkURXU3Nq7x/",
 				"excerpt": "Começou a pouco tempo, mas com comunidade crescendo a cada dia ele acumula grande energia para suas lives. Acesse a aba 'nosso time' e conheça ele de perto.",
-				"img": "assets/img/samples/news-v4-post-img-01.jpg",
+				"img": "assets/img/publi/apresentaçãoPKGOMES.png",
 				"category": {
 					"class": "color-warning",
 					"name": "Conteúdo"
@@ -16,6 +17,7 @@
 			{
 				"format": "default",
 				"title": "lançamento da ManedWolf!",
+				"link": "https://www.instagram.com/man3dw0lf/",
 				"excerpt": "Hoje é um dia importante para org, seu nascimento. Esperamos ajudar o máximo de pessoas a crescerem no ramo e criar uma comunidade unida e fiel ao cenário competitivo brasileiro.",
 				"img": "assets/img/samples/news-v4-post-img-02.jpg",
 				"category": {
