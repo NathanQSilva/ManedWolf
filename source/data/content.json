@@ -53,6 +53,68 @@
 				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
 				"url": "team-player-1.html",
 				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Hugo Hiroichi Ito",
+				"nickname": "Hiro The Hero",
+				"social": [
+					"https://www.instagram.com/hirozaum/"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Arthur Lopes Dias Ferreira",
+				"nickname": "Õkami",
+				"social": [
+					"https://www.instagram.com/arthur.okami/"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "João Marcos Freitas Lacerda",
+				"nickname": "SrKhalil",
+				"social": [
+					"https://www.facebook.com/profile.php?id=100000685228789",
+					"https://www.instagram.com/joaomfl1/"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Breno Henrique",
+				"nickname": "...",
+				"social": [
+					"https://www.facebook.com/breno.henrique.7528"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Nathan Quadros da Silva",
+				"nickname": "SLO0OW",
+				"social": [
+					"https://www.instagram.com/nathan.quadros.5/",
+					"https://www.facebook.com/nathan.quadros.583"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
 			}
 		]
 	},
@@ -289,6 +351,202 @@
 						"avatar": "assets/img/samples/streams-archive-avatar-01.jpg",
 						"date": "August 3rd, 2018"
 					}
+				}
+			}
+		},
+		"hugo.ito": {
+			"name": "Hugo Hiroichi Ito",
+			"nickname": "Hiro The Hero",
+			"photo": "foto a editar",
+			"color": "color-1",
+			"sections": {
+				"lineups": {
+					"details": [
+						{
+							"key": "Age",
+							"value": "18 Anos"
+						},
+						{
+							"key": "Since",
+							"value": "Novembro 2022"
+						},
+						{
+							"key": "Born",
+							"value": "São Paulo, BR"
+						},
+						{
+							"key": "Team",
+							"value": "Maned Wolf"
+						},
+						{
+							"key": "Role",
+							"value": "A definir"
+						}
+					],
+					"social": [
+						{
+							"link": "https://www.instagram.com/hirozaum/"
+						}
+					],
+					"content": "Em busca da melhora e aprimoramento, de balas na cabeça e uma tela azul escrito 'Vitória'"
+				}
+			}
+		},
+		"arthur.okami": {
+			"name": "Arthur Lopes Dias Ferreira",
+			"nickname": "Õkami",
+			"photo": "foto a editar",
+			"color": "color-1",
+			"sections": {
+				"lineups": {
+					"details": [
+						{
+							"key": "Age",
+							"value": "26 Anos"
+						},
+						{
+							"key": "Since",
+							"value": "Novembro 2022"
+						},
+						{
+							"key": "Born",
+							"value": "Minas Gerais, BR"
+						},
+						{
+							"key": "Team",
+							"value": "Maned Wolf"
+						},
+						{
+							"key": "Role",
+							"value": "A definir"
+						}
+					],
+					"social": [
+						{
+							"link": "https://www.instagram.com/arthur.okami/"
+						}
+					],
+					"content": "Fala camaradas, me chamo Arthur Lopes, um apreciador de FPS e na correria em ser um Pro Player!!"
+				}
+			}
+		},
+		"joao.lacerda": {
+			"name": "João Marcos Freitas Lacerda",
+			"nickname": "SrKhalil",
+			"photo": "foto a editar",
+			"color": "color-1",
+			"sections": {
+				"lineups": {
+					"details": [
+						{
+							"key": "Age",
+							"value": "25 Anos"
+						},
+						{
+							"key": "Since",
+							"value": "Novembro 2022"
+						},
+						{
+							"key": "Born",
+							"value": "São Paulo, BR"
+						},
+						{
+							"key": "Team",
+							"value": "Maned Wolf"
+						},
+						{
+							"key": "Role",
+							"value": "A definir"
+						}
+					],
+					"social": [
+						{
+							"link": "https://www.facebook.com/profile.php?id=100000685228789"
+						},
+						{
+							"link": "https://www.instagram.com/joaomfl1/"
+						}
+					],
+					"content": "Opa pessoal, tudo certo? meu nome é João e estou junto com a ManedWolf para dar o meu melhor e trazer a vitória para a equipe."
+				}
+			}
+		},
+		"breno.henrique": {
+			"name": "Breno Henrique",
+			"nickname": "...",
+			"photo": "foto a editar",
+			"color": "color-1",
+			"sections": {
+				"lineups": {
+					"details": [
+						{
+							"key": "Age",
+							"value": "... Anos"
+						},
+						{
+							"key": "Since",
+							"value": "Novembro 2022"
+						},
+						{
+							"key": "Born",
+							"value": "Minas Gerais, BR"
+						},
+						{
+							"key": "Team",
+							"value": "Maned Wolf"
+						},
+						{
+							"key": "Role",
+							"value": "A definir"
+						}
+					],
+					"social": [
+						{
+							"link": "https://www.facebook.com/breno.henrique.7528"
+						}
+					],
+					"content": "..."
+				}
+			}
+		},
+		"nathan.quadros": {
+			"name": "Nathan Quadros da Silva",
+			"nickname": "SLO0OW",
+			"photo": "foto a editar",
+			"color": "color-1",
+			"sections": {
+				"lineups": {
+					"details": [
+						{
+							"key": "Age",
+							"value": "23 Anos"
+						},
+						{
+							"key": "Since",
+							"value": "Março 2022"
+						},
+						{
+							"key": "Born",
+							"value": "Paraná, BR"
+						},
+						{
+							"key": "Team",
+							"value": "Maned Wolf"
+						},
+						{
+							"key": "Role",
+							"value": "Coach"
+						}
+					],
+					"social": [
+						{
+							"link": "https://www.instagram.com/nathan.quadros.5/"
+						},
+						{
+							"link": "https://www.facebook.com/nathan.quadros.583"
+						}
+					],
+					"content": "Eu dnv por aqui hahah, fui coach em equipes de CS e valorant durante alguns anos, esterei desempenhando o meu melhor para levar a equipe a outro patamar."
 				}
 			}
 		}
