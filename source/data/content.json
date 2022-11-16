@@ -411,6 +411,27 @@
 					"link": "https://www.instagram.com/gabriellearteestudio/?igshid=YmMyMTA2M2Y%3D"
 				}
 			]
+		},
+		{
+			"title": "peperonio",
+			"position": "Streamer",
+			"age": 29,
+			"joined": "Nov 2022",
+			"country": "Brasil",
+			"state": "RS",
+			"excerpt": "Sou formado em redes de computadores e trabalho na area, sou papai e faço lives normalmente de FPS e futuramente de jogos retro, gosto de consoles retros e outras nerdices aleatorias, me sigam nas redes e na twitch.",
+			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"socials": [
+				{
+					"link": "https://www.twitch.tv/peperonio"					
+				},
+				{
+					"link": "https://tiktok.com/@peperon1o"
+				},
+				{
+					"link": "https://twitter.com/peperon1o"
+				}
+			]
 		}
 	],
 	"footer": {
