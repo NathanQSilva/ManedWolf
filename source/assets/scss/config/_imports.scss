@@ -26,6 +26,6 @@ $container-max-widths: (
 @import "custom-variables";
 
 // Fontawesome
-@import "../../../../public/vendor/fontawesome/scss/fontawesome.scss";
-@import "../../../../public/vendor/fontawesome/scss/solid.scss";
-@import "../../../../public/vendor/fontawesome/scss/brands.scss";
+@import "../../../assets/vendor/fontawesome/scss/fontawesome.scss";
+@import "../../../assets/vendor/fontawesome/scss/solid.scss";
+@import "../../../assets/vendor/fontawesome/scss/brands.scss";
