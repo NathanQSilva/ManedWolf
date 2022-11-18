@@ -392,44 +392,6 @@
 				}
 			}
 		},
-		"arthur.okami": {
-			"name": "Arthur Lopes Dias Ferreira",
-			"nickname": "Õkami",
-			"photo": "foto a editar",
-			"color": "color-1",
-			"sections": {
-				"lineups": {
-					"details": [
-						{
-							"key": "Age",
-							"value": "26 Anos"
-						},
-						{
-							"key": "Since",
-							"value": "Novembro 2022"
-						},
-						{
-							"key": "Born",
-							"value": "Minas Gerais, BR"
-						},
-						{
-							"key": "Team",
-							"value": "Maned Wolf"
-						},
-						{
-							"key": "Role",
-							"value": "A definir"
-						}
-					],
-					"social": [
-						{
-							"link": "https://www.instagram.com/arthur.okami/"
-						}
-					],
-					"content": "Fala camaradas, me chamo Arthur Lopes, um apreciador de FPS e na correria em ser um Pro Player!!"
-				}
-			}
-		},
 		"joao.lacerda": {
 			"name": "João Marcos Freitas Lacerda",
 			"nickname": "SrKhalil",
@@ -468,44 +430,6 @@
 						}
 					],
 					"content": "Opa pessoal, tudo certo? meu nome é João e estou junto com a ManedWolf para dar o meu melhor e trazer a vitória para a equipe."
-				}
-			}
-		},
-		"breno.henrique": {
-			"name": "Breno Henrique",
-			"nickname": "...",
-			"photo": "foto a editar",
-			"color": "color-1",
-			"sections": {
-				"lineups": {
-					"details": [
-						{
-							"key": "Age",
-							"value": "... Anos"
-						},
-						{
-							"key": "Since",
-							"value": "Novembro 2022"
-						},
-						{
-							"key": "Born",
-							"value": "Minas Gerais, BR"
-						},
-						{
-							"key": "Team",
-							"value": "Maned Wolf"
-						},
-						{
-							"key": "Role",
-							"value": "A definir"
-						}
-					],
-					"social": [
-						{
-							"link": "https://www.facebook.com/breno.henrique.7528"
-						}
-					],
-					"content": "..."
 				}
 			}
 		},
@@ -657,7 +581,7 @@
 			"country": "Brasil",
 			"state": "PR",
 			"excerpt": "Sou multiartista, astronoma amadora, moro em PG e geralmente jogo jogos souls like, ou faço lives sobre desenho e animação. Me siga nas redes e conheça um pouco mais sobre mim, não esqueça de acessar minhas lives.",
-			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"img": "assets/img/ccs/Gabi/gabi.jpg",
 			"socials": [
 				{
 					"link": "https://www.twitch.tv/g4briellev_"					
