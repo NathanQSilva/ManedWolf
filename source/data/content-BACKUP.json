@@ -2582,6 +2582,12 @@
 				"subtitle": "Discord",
 				"icon": "fab fa-discord",
 				"url": "https://discord.gg/PFuGeNPNM6"
+			},
+			{
+				"title": "ManedWolf",
+				"subtitle": "Twitter",
+				"icon": "fab fa-twitter",
+				"url": "https://twitter.com/ManedWolfBR"
 			}
 		]
 	}

@@ -35,9 +35,17 @@
 				"url": "valorant-masc.html",
 				"bg": "assets/img/samples/team-selection-character-02-bg.jpg",
 				"character": "assets/img/teamLogo/valorant-logo.png",
-				"team": "ManedWolf",
+				"team": "MW-Masculino",
 				"game": "Valorant",
 				"category": "team-1"
+			},
+			{
+				"url": "valorant-fem.html",
+				"bg": "assets/img/samples/team-selection-character-02-bg.jpg",
+				"character": "assets/img/teamLogo/valorant-logo.png",
+				"team": "MW-Feminino",
+				"game": "Valorant",
+				"category": "team-2"
 			}
 		],
 		"valorantMasc": [
@@ -113,6 +121,43 @@
 				],
 				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
 				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			}
+		],
+		"valorantFem": [
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Duncan",
+				"nickname": "Duncan",
+				"social": [],
+				"photo": "assets/img/samples/team-info-page-player-photo-01.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-01.png",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Ana Clara O. Santos",
+				"nickname": "Anjinx#BR1",
+				"social": [
+					"https://www.instagram.com/anjiinx_/"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-05.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-05",
+				"url": "team-player-1.html",
+				"category": "category-1"
+			},
+			{
+				"avatar": "assets/img/samples/streams-filter-avatar-02.png",
+				"name": "Azure",
+				"nickname": "azure",
+				"social": [
+					"https://twitter.com/azurevlr",
+					"https://www.tiktok.com/@azurevlr"
+				],
+				"photo": "assets/img/samples/team-info-page-player-photo-05.png",
+				"photo-lg": "assets/img/samples/player-info-page-player-photo-05",
 				"url": "team-player-1.html",
 				"category": "category-1"
 			}
@@ -547,14 +592,14 @@
 	],
 	"streamers": [
 		{
-			"title": "pkgomestv",
+			"title": "ManedWolf",
 			"position": "Streamer",
-			"age": 27,
+			"age": 1,
 			"joined": "Out 2022",
 			"country": "Brasil",
-			"state": "ES",
-			"excerpt": "Olá! Meu nome é Patrick Gomes, Streamer e amigo da comunidade, sua companhia de todos os dias, noites e madrugadas, venha se divertir com a gente.",
-			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"state": "PR",
+			"excerpt": "Siga nosso canal na twitch, acompanhe e torça com a gente pela Mane Wolf",
+			"img": "assets/img/ccs/ManedWolf/logo.png",
 			"socials": [
 				{
 					"link": "https://www.instagram.com/pkgomestv/"
@@ -591,6 +636,33 @@
 				},
 				{
 					"link": "https://www.instagram.com/gabriellearteestudio/?igshid=YmMyMTA2M2Y%3D"
+				}
+			]
+		},
+		{
+			"title": "pkgomestv",
+			"position": "Streamer",
+			"age": 27,
+			"joined": "Out 2022",
+			"country": "Brasil",
+			"state": "ES",
+			"excerpt": "Olá! Meu nome é Patrick Gomes, Streamer e amigo da comunidade, sua companhia de todos os dias, noites e madrugadas, venha se divertir com a gente.",
+			"img": "assets/img/samples/staff-member-img-01.jpg",
+			"socials": [
+				{
+					"link": "https://www.instagram.com/pkgomestv/"
+				},
+				{
+					"link": "https://twitch.tv/pkgomestv/"
+				},
+				{
+					"link": "https://tiktok.com/@pkgomestv/"
+				},
+				{
+					"link": "https://twitter.com/pkgomestv"
+				},
+				{
+					"link": "https://youtube.com/channel/UC4CgsK1z-RkmQQBkYlgWqKw"
 				}
 			]
 		},
@@ -635,7 +707,15 @@
 				"subtitle": "Discord",
 				"icon": "fab fa-discord",
 				"url": "https://discord.gg/FSykf8jRbc"
+			},
+			{
+				"title": "ManedWolf",
+				"subtitle": "Twitter",
+				"icon": "fab fa-twitter",
+				"url": "https://twitter.com/ManedWolfBR"
 			}
 		]
 	}
 }
+git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
